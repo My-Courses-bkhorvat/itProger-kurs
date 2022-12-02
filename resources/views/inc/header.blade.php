@@ -9,7 +9,7 @@
         <a class="me-3 py-2 text-dark text-decoration-none" href="/">Главная</a>
         <a class="me-3 py-2 text-dark text-decoration-none" href="/about">Про нас</a>
         -->
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact">Контакты</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact/all">Сообщения</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact">Contacts</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact/all">Messages</a>
     </nav>
 </div>
