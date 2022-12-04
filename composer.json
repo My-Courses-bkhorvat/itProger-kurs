@@ -8,9 +8,9 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.4.3",
+        "php": "^8.0.2",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^9.0",
         "laravel/tinker": "^2.0"
     },
     "require-dev": {
@@ -18,7 +18,7 @@
         "filp/whoops": "^2.14.6",
         "fzaninotto/faker": "^1.9.2",
         "mockery/mockery": "^1.5.1",
-        "nunomaduro/collision": "^5.0",
+        "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^9.5.26"
     },
     "config": {
