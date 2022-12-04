@@ -1,7 +1,7 @@
 <footer class="pt-4 my-md-5 pt-md-5 border-top">
     <div class="row" bis_skin_checked="1">
         <div class="col-12 col-md" bis_skin_checked="1">
-            <small class="d-block mb-3 text-muted">© 2017–2021</small>
+            <small class="d-block mb-3 text-muted">© 2017–2023</small>
         </div>
         <div class="col-6 col-md" bis_skin_checked="1">
             <h5>Features</h5>
