@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title-block')Record update@endsection
+@section('title-block')Record update @endsection
 
 @section('content')
     <h1>Record update</h1>

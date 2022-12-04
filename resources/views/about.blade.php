@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title-block')Cтраница про нас@endsection
+@section('title-block')Cтраница про нас @endsection
 
 @section('content')
     <h1>Cтраница про нас</h1>

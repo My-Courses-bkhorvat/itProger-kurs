@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title-block'){{ $data->subject }}@endsection
+@section('title-block'){{ $data->subject }} @endsection
 
 @section('content')
     <h1>{{ $data->subject }}</h1>
