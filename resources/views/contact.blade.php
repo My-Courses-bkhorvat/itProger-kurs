@@ -17,8 +17,8 @@
             <input type="text" name="email" placeholder="Email" id="email" class="form-control">
         </div>
         <div class="form-group">
-            <label for="subject">Letter</label>
-            <input type="text" name="subject" placeholder="Letter" id="subject" class="form-control">
+            <label for="subject">Subject</label>
+            <input type="text" name="subject" placeholder="Subject" id="subject" class="form-control">
         </div>
         <div class="form-group">
             <label for="message">Message</label>
