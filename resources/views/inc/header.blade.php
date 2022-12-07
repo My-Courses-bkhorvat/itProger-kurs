@@ -6,10 +6,10 @@
 
     <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
         <!--
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/itProger-kurs/">Главная</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/itProger-kurs/about">Про нас</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/">Главная</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/about">Про нас</a>
         -->
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/itProger-kurs/contact">Contacts</a>
-        <a class="me-3 py-2 text-dark text-decoration-none" href="/itProger-kurs/contact/all">Messages</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact">Contacts</a>
+        <a class="me-3 py-2 text-dark text-decoration-none" href="/contact/all">Messages</a>
     </nav>
 </div>

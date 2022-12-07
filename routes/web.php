@@ -11,23 +11,23 @@
 |
 */
 
-Route::get('/itProger-kurs', function () {
+Route::get('/', function () {
     return view('home');
 })->name('home');
-Route::get('/itProger-kurs/about', function () {
+Route::get('/about', function () {
     return view('about');
 })->name('about');
-Route::get('/itProger-kurs/contact', function () {
+Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
-Route::get('/itProger-kurs/contact/all', 'ContactControler@allData')->name('contact-data');
-Route::get('/itProger-kurs/contact/all/{id}',
+Route::get('/contact/all', 'ContactControler@allData')->name('contact-data');
+Route::get('/contact/all/{id}',
     'ContactControler@showOneMessage')->name('contact-data-one');
-Route::get('/itProger-kurs/contact/all/{id}/update',
+Route::get('/contact/all/{id}/update',
     'ContactControler@updateMessage')->name('contact-update');
-Route::get('/itProger-kurs/contact/all/{id}/delete',
+Route::get('/contact/all/{id}/delete',
     'ContactControler@deleteMessage')->name('contact-delete');
-Route::post('/itProger-kurs/contact/all/{id}/update',
+Route::post('/contact/all/{id}/update',
     'ContactControler@updateMessageSubmit')->name('contact-update-submit');
-Route::post('/itProger-kurs/contact/submit', 'ContactControler@submit')->name('contact-form');
+Route::post('/contact/submit', 'ContactControler@submit')->name('contact-form');
 
